@@ -13,12 +13,11 @@
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
-  "production": {
-    "username": "avnadmin",
-    "password": "AVNS_IByGnjjaVvPXN7bpZfw",
-    "database": "defaultdb",
-    "host": "mysql-1770fc41-db-quizz.a.aivencloud.com",
-    "dialect": "mysql",
-    "port": 3306
+  "production":  {
+    "username": "ujnbjdlspjn2hq5r",
+    "password": "cj6WfLWquA2GMqhsMmUo",
+    "database": "brmnurmck6qivoo4fslm",
+    "host": "brmnurmck6qivoo4fslm-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
   }
 }

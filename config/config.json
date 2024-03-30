@@ -18,6 +18,7 @@
     "password": "AVNS_IByGnjjaVvPXN7bpZfw",
     "database": "defaultdb",
     "host": "mysql-1770fc41-db-quizz.a.aivencloud.com",
-    "dialect": "mysql"
+    "dialect": "mysql",
+    "port": 3306
   }
 }

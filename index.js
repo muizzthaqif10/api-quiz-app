@@ -4,6 +4,7 @@ const cors = require("cors");
 
 app.use(express.json());
 app.use(cors());
+require("dotenv").config();
 
 const db = require("./models");
 
@@ -28,8 +29,8 @@ const answerRouter = require("./routes/Answer");
 app.use("/answer", answerRouter);
 
 db.sequelize.sync().then(() =>{
-    app.listen(27438, () => {
-        console.log("Serever run on prort 3001");
+    app.listen(process.env.PORT || 27438, () => {
+        console.log("Serever run on port 27438");
     });
 });
 

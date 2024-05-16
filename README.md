@@ -1,7 +1,7 @@
 ##API for quiz app created using sequelize.js
 
 
-##API is published using Render and cloud mysql
+##API is published using Render and clever-cloud mysql
 
 
 ##View the website here https://bizmathpro.vercel.app/

@@ -14,11 +14,10 @@
     "dialect": "mysql"
   },
   "production":  {
-    "username": "avnadmin",
-    "password": "AVNS_IByGnjjaVvPXN7bpZfw",
-    "database": "defaultdb",
-    "port": 27438,
-    "host": "mysql-1770fc41-db-quizz.a.aivencloud.com",
+    "username": "ujnbjdlspjn2hq5r",
+    "password": "cj6WfLWquA2GMqhsMmUo",
+    "database": "brmnurmck6qivoo4fslm",
+    "host": "brmnurmck6qivoo4fslm-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }

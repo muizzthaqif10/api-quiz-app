@@ -5,5 +5,20 @@
     "password": "Muizzuddin#01",
     "host": "localhost",
     "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production":  {
+    "username": "avnadmin",
+    "password": "AVNS_IByGnjjaVvPXN7bpZfw",
+    "database": "defaultdb",
+    "port": 27438,
+    "host": "mysql-1770fc41-db-quizz.a.aivencloud.com",
+    "dialect": "mysql"
   }
 }

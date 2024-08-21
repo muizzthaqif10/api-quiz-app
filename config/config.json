@@ -1,9 +1,23 @@
 {
   "development": {
     "username": "root",
-    "password": "Muizz#01",
-    "database": "test2",
+    "database": "project-react",
+    "password": "Muizzuddin#01",
     "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production":  {
+    "username": "ujnbjdlspjn2hq5r",
+    "password": "cj6WfLWquA2GMqhsMmUo",
+    "database": "brmnurmck6qivoo4fslm",
+    "host": "brmnurmck6qivoo4fslm-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }
